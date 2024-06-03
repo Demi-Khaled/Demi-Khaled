@@ -5,11 +5,12 @@
 <h2 align="left">About me</h2>
 
 ###
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br>
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning : ReactJS FrontEnd Development<br>🎯 Goals: Frontend and Backend<br>🎲 Fun fact: ...</p>
 
 ###
-
+<br><br>
 <h2 align="left">How to reach me</h2>
 
 ###
