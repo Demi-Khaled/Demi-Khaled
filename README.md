@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Mohammed Khaled Amine</p>
+<h1 align="center">Hey 👋 I am Mohammed Khaled Amine Ali</h1>
 
 ###
 
